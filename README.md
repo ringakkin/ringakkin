@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ringakkin — a little space on the internet" width="100%">
+  <img src="profile-banner.svg" alt="Ringakkin — a little space on the internet" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Hi! I'm **Ringakkin** — a developer who enjoys exploring how things work, lear
 ---
 
 <p align="center">
-  <img src="assets/white-cat.svg" alt="A little white cat" width="112">
+  <img src="white-cat.svg" alt="A little white cat" width="112">
   <br>
   <sub>Thanks for stopping by. Please let me copy your homework. ♡</sub>
   <br>
