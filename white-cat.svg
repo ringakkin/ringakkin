@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-labelledby="title desc">
+<title id="title">A little white cat</title>
+<desc id="desc">A hand-drawn white cat sitting among tiny blue flowers and stationery doodles.</desc>
+<defs>
+  <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".025" numOctaves="2" seed="8"/><feDisplacementMap in="SourceGraphic" scale="1.1"/></filter>
+</defs>
+<g fill="none" stroke="#526D82" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#rough)">
+  <!-- tail -->
+  <path d="M342 292 C410 303 425 252 396 231 C380 220 365 231 372 245" fill="none"/>
+  <!-- body -->
+  <path d="M166 319 C151 282 163 224 207 199 C237 182 302 186 331 218 C357 247 360 306 337 337 C305 369 205 365 166 319Z" fill="#FFFDF8"/>
+  <!-- head -->
+  <path d="M176 211 C165 171 170 105 194 74 L234 115 C257 105 288 107 312 119 L352 77 C374 113 380 173 360 214 C339 255 204 257 176 211Z" fill="#FFFDF8"/>
+  <!-- ear details -->
+  <path d="M192 95 L226 128 M343 96 L311 131" stroke="#D99A9B" stroke-width="3"/>
+  <!-- face -->
+  <path d="M222 174 Q228 182 235 174 M303 174 Q310 182 316 174" />
+  <path d="M263 190 Q270 198 277 190 Q270 184 263 190Z" fill="#D98E91" stroke="#D98E91"/>
+  <path d="M270 198 Q264 208 254 205 M270 198 Q277 208 287 205"/>
+  <path d="M210 190 L174 184 M210 201 L174 207 M329 190 L366 184 M329 201 L366 207" stroke-width="2.8"/>
+  <!-- paws and belly -->
+  <path d="M194 328 Q184 344 205 349 Q226 353 239 340 M300 341 Q316 354 336 343 Q345 337 337 325" />
+  <path d="M236 251 Q267 265 300 251" stroke="#D8E4E8" stroke-width="2.5"/>
+</g>
+<!-- cheeks -->
+<g fill="#E8B5B3" opacity=".75"><ellipse cx="211" cy="205" rx="13" ry="7"/><ellipse cx="329" cy="205" rx="13" ry="7"/></g>
+<!-- scarf -->
+<path d="M192 245 Q267 272 344 242 L350 269 Q269 299 187 269Z" fill="#B9D4E8" stroke="#526D82" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M322 264 Q340 286 329 307 L307 287Z" fill="#B9D4E8" stroke="#526D82" stroke-width="3.5"/>
+<!-- doodle flowers -->
+<g stroke="#789DB5" stroke-width="3" stroke-linecap="round" fill="#EAF3F8">
+  <path d="M95 290 Q85 270 99 257 Q113 269 104 289 Q124 278 132 294 Q117 308 104 296 Q109 318 92 322 Q79 307 95 290Z"/>
+  <circle cx="104" cy="292" r="6" fill="#E6B77D"/>
+  <path d="M417 143 Q407 124 421 113 Q435 126 425 144 Q444 132 452 148 Q438 161 424 151 Q429 172 412 176 Q398 161 417 143Z"/>
+  <circle cx="423" cy="145" r="5" fill="#E6B77D"/>
+</g>
+<g fill="none" stroke="#D39A83" stroke-width="3" stroke-linecap="round">
+  <path d="M85 115 l8 12 13-2 -8 11 5 13 -13-7 -12 7 3-14 -10-9 14 1Z"/>
+  <path d="M442 316 q8-13 16 0 q8 13 16 0 M458 305 v24"/>
+  <path d="M135 365 q13-14 26 0 q-13 15-26 0Z"/>
+</g>
+<g fill="#6F8EA4" font-family="Georgia,serif" font-size="16" font-style="italic">
+</g>
+</svg>
