@@ -1,8 +1,10 @@
-&#x20;\<p align="center">   \<sub>✳ LITTLE NOTES & CURIOUS THINGS\</sub> \</p>
+✳ *Little notes & curious things*
 
-\<p align="center">   \<strong>Ringakkin\</strong>   \<br>   \<em>浮躁中沉潜，早已知晓所述\</em> \</p>
+**Ringakkin**
 
-\<p align="center">   \<a href="[https://ringakkin.github.io/Website-zhangkun/home.html](https://ringakkin.github.io/Website-zhangkun/home.html)">Website ↗\</a>   &nbsp;·&nbsp;   \<a href="[https://ringakkin.github.io/vue3-tools-docs/](https://ringakkin.github.io/vue3-tools-docs/)">NPM Docs ↗\</a>   &nbsp;·&nbsp;   \<a href="[https://blog.csdn.net/m0_57904695](https://blog.csdn.net/m0_57904695)">CSDN ↗\</a> \</p>
+*浮躁中沉潜，早已知晓所述*
+
+[Website](https://ringakkin.github.io/Website-zhangkun/home.html) · [NPM Docs](https://ringakkin.github.io/vue3-tools-docs/) · [CSDN](https://blog.csdn.net/m0_57904695)
 
 ---
 
@@ -18,14 +20,15 @@ A developer curious about how things work, always learning, exploring, and build
 
 ### ♡ Little things I love
 
-🍜 Good food　🐈 Cats　📒 Stationery　☕ Quiet moments
+- 🍜 Good food
+- 🐈 Cats
+- 📒 Stationery
+- ☕ Quiet moments
 
 ---
 
-\<p align="center">
-&#x20; \<img src="white-cat.svg" alt="A little white cat" width="112">
-&#x20; \<br>\<br>
-&#x20; \<sub>Thanks for stopping by. Please let me copy your homework. ♡\</sub>
-&#x20; \<br>
-&#x20; \<sub>Made with ☕, curiosity, and a little love for cats.\</sub>
-\</p>
+<img src="white-cat.svg" alt="A little white cat" width="112">
+
+Thanks for stopping by. Please let me copy your homework. ♡
+
+Made with ☕, curiosity, and a little love for cats.
