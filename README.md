@@ -1,46 +1,31 @@
-<p align="center">
-  <img src="profile-banner.svg" alt="Ringakkin — a little space on the internet" width="100%">
-</p>
+&#x20;\<p align="center">   \<sub>✳ LITTLE NOTES & CURIOUS THINGS\</sub> \</p>
 
-<p align="center">
-  <em>浮躁中沉潜，早已知晓所述</em>
-</p>
+\<p align="center">   \<strong>Ringakkin\</strong>   \<br>   \<em>浮躁中沉潜，早已知晓所述\</em> \</p>
 
-<p align="center">
-  <a href="https://ringakkin.github.io/Website-zhangkun/home.html">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://ringakkin.github.io/vue3-tools-docs/">NPM Docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://blog.csdn.net/m0_57904695">CSDN</a>
-</p>
+\<p align="center">   \<a href="[https://ringakkin.github.io/Website-zhangkun/home.html](https://ringakkin.github.io/Website-zhangkun/home.html)">Website ↗\</a>   &nbsp;·&nbsp;   \<a href="[https://ringakkin.github.io/vue3-tools-docs/](https://ringakkin.github.io/vue3-tools-docs/)">NPM Docs ↗\</a>   &nbsp;·&nbsp;   \<a href="[https://blog.csdn.net/m0_57904695](https://blog.csdn.net/m0_57904695)">CSDN ↗\</a> \</p>
 
 ---
 
 ### ✿ A little about me
 
-Hi! I'm **Ringakkin** — a developer who enjoys exploring how things work, learning new technologies, and building useful little things.
+A developer curious about how things work, always learning, exploring, and building useful little things.
 
-- 📚 Currently learning **Computer Architecture** and **Operating Systems**
-- 💻 Interested in **programming, automation, and open source**
-- 🍜 A happy **food lover**
-- 🐈 Cat person, stationery admirer, and occasional homework borrower
+### ✎ Currently exploring
 
-### ✎ Things I'm exploring
+`Computer Architecture`　`Operating Systems`
 
-`Computer Architecture`　`Operating Systems`　`Programming`　`Automation`
+`Programming`　`Automation`　`Open Source`
 
-### ♡ Find me elsewhere
+### ♡ Little things I love
 
-- [Personal Website](https://ringakkin.github.io/Website-zhangkun/home.html)
-- [Vue3 Tools Docs](https://ringakkin.github.io/vue3-tools-docs/)
-- [CSDN Blog](https://blog.csdn.net/m0_57904695)
+🍜 Good food　🐈 Cats　📒 Stationery　☕ Quiet moments
 
 ---
 
-<p align="center">
-  <img src="white-cat.svg" alt="A little white cat" width="112">
-  <br>
-  <sub>Thanks for stopping by. Please let me copy your homework. ♡</sub>
-  <br>
-  <sub>Made with ☕, curiosity, and a little love for cats.</sub>
-</p>
+\<p align="center">
+&#x20; \<img src="white-cat.svg" alt="A little white cat" width="112">
+&#x20; \<br>\<br>
+&#x20; \<sub>Thanks for stopping by. Please let me copy your homework. ♡\</sub>
+&#x20; \<br>
+&#x20; \<sub>Made with ☕, curiosity, and a little love for cats.\</sub>
+\</p>
